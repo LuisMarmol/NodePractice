@@ -1,4 +1,4 @@
-//Práctica server usando POST\\
+//Práctica server usando POST
 
 const servidor = require('http');
 
